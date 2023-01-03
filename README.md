@@ -9,4 +9,5 @@ I seek to be the best professional, capable of working with demands, news, surpa
 I believe that a great professional is one who knows no limits, who is capable of overcoming the barriers that prevent him from growing every day, and that's me!
 
 ### Contact
-rodrigofreitas2011@live.com;
+e-mail: rodrigofreitas2011@live.com;
+LinkedIn: https://www.linkedin.com/in/rodrigo-freitas-5b5a018a/
