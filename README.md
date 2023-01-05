@@ -11,6 +11,6 @@ I seek to be the best professional, capable of working with demands, news, surpa
 I believe that a great professional is one who knows no limits, who is capable of overcoming the barriers that prevent him from growing every day, and that's me!
 
 ### Contact
-<a href="https://www.linkedin.com/in/rodrigo-freitas-5b5a018a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailton:rodrigo.freitas@live.com" target="_blank"><img src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.instagram.com/rodrigojdefreitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rodrigo-freitas-5b5a018a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:rodrigo.freitas@live.com" target="_blank"><img src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.instagram.com/rodrigojdefreitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
