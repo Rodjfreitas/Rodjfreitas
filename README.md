@@ -4,6 +4,7 @@
 I am from Belo Horizonte, in the state of Minas Gerais, Brazil. I'm 34 years old, Married to Natália and I don't have children or animals.
 
 ### My Skills
+<img src="https://img.shields.io/badge/-HTML-Ff0000?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-00BFFF?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/-JS-DC143C?style=for-the-badge&logo=javascript&logoColor=white">
 
 
 I have always been passionate about technologies, and this passion brought me closer to programming. I am currently doing a professional mentorship to develop my skills as a programmer, discover my strengths and weaknesses, develop and improve them. I decided to specialize in front-end and that has been very rewarding.
