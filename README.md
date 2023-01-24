@@ -8,6 +8,8 @@ I am from Belo Horizonte, in the state of Minas Gerais, Brazil. I'm 34 years old
 
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-2F80ED?logo=visualstudiocode&logoColor=white&style=plastic">  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=plastic">  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=plastic">  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic">
 
+<img src="https://img.shields.io/badge/-Excel-217346?logo=MicrosoftExcel&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=PowerBI&logoColor=white&style=flat">
+
 
 I have always been passionate about technologies, and this passion brought me closer to programming. I am currently doing a professional mentorship to develop my skills as a programmer, discover my strengths and weaknesses, develop and improve them. I decided to specialize in front-end and that has been very rewarding.
 I seek to be the best professional, capable of working with demands, news, surpassing myself every day.
