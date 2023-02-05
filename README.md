@@ -1,4 +1,4 @@
-### Seja muito bem-vindo!
+### Olá, Eu sou o Rodrigo Freitas! ✌️
 
 ### Perfil
 
@@ -12,6 +12,11 @@
 🎵 Músicas: Blues, Românticas e gospel <br>
 🎥 Filme preferido: Saga Star Wars <br>
 🎥 Serie preferida: Breaking Bad <br>
+
+
+![Rodrigo Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodjfreitas&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodjfreitas&layout=compact)](https://github.com/Rodjfreitas/github-readme-stats)
 
 
 ### Minhas Habilidades
