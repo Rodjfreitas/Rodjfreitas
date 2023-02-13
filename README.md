@@ -32,6 +32,6 @@ Busco ser o melhor profissional, capaz de trabalhar com demandas, novidades, me 
 Acredito que um grande profissional é aquele que não conhece limites, que é capaz de superar as barreiras que o impedem de crescer a cada dia, e esse sou eu!
 
 ### Contact
-<a href="https://github.com/Rodjfreitas" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat"> <a href="https://www.linkedin.com/in/rodrigojfreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat"></a> <a href="mailto:rodrigofreitas2011@live.com" target="_blank"><img src="https://img.shields.io/badge/-email-005FF9?logo=Mail.Ru&logoColor=white&style=flat"></a> <a href="https://www.instagram.com/rodrigojdefreitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat"></a>
+<a href="https://github.com/Rodjfreitas" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat"> <a href="https://www.linkedin.com/in/rodrigojfreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat"></a> <a href="mailto:rodrigofreitas2011@live.com" target="_blank"><img src="https://img.shields.io/badge/-email-005FF9?logo=Mail.Ru&logoColor=white&style=flat"></a> 
 
 
