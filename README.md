@@ -1,4 +1,4 @@
-### Olá, Eu sou o Rodrigo Freitas! ✌️
+### Olá, seja bem-vindo! Eu sou o Rodrigo Freitas! ✌️
 
 ### Perfil
 
