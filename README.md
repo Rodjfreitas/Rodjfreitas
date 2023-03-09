@@ -20,7 +20,7 @@
 
 
 ### Minhas Habilidades
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=plastic">  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=plastic">  <img src="https://img.shields.io/badge/-JAVASCRIPT-f4dc1c?logo=JavaScript&logoColor=black&style=plastic"> 
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=plastic">  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=plastic">  <img src="https://img.shields.io/badge/-JAVASCRIPT-f4dc1c?logo=JavaScript&logoColor=black&style=plastic"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=plastic">
 
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-2F80ED?logo=visualstudiocode&logoColor=white&style=plastic">  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=plastic">  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=plastic">  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic">
 
