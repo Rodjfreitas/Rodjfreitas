@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/-Excel-217346?logo=MicrosoftExcel&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=PowerBI&logoColor=white&style=flat">
 
 
-Sempre fui apaixonado por tecnologias, e essa paixão me aproximou da programação. Atualmente estou fazendo uma mentoria profissional para desenvolver minhas habilidades como programador, descobrir meus pontos fortes e fracos, desenvolvê-los e melhorá-los. Decidi me especializar em front-end e isso tem sido muito gratificante.
+Sempre fui apaixonado por tecnologias, e essa paixão me aproximou da programação. Atualmente estou fazendo uma mentoria profissional para desenvolver minhas habilidades como programador, descobrir meus pontos fortes e fracos, desenvolvê-los e melhorá-los. Decidi me especializar em back-end e isso tem sido muito gratificante.
 Busco ser o melhor profissional, capaz de trabalhar com demandas, novidades, me superando a cada dia.
 Acredito que um grande profissional é aquele que não conhece limites, que é capaz de superar as barreiras que o impedem de crescer a cada dia, e esse sou eu!
 
