@@ -8,7 +8,7 @@
 💍 Casado com a Natália <br>
 ⚽ Apaixonado por futebol. Torcedor do Cruzeiro <br>
 🎮 Hobby: Games <br>
-📚 Livros: Temas sociais, histórias das civilizações e desenvolvimento pessoal <br>
+📚 Livros: Temas sociais, histórias das civilizações e desenvolvimento pessoal e conhecimentos técnicos em programação <br>
 🎵 Músicas: Blues, Românticas e gospel <br>
 🎥 Filme preferido: Saga Star Wars <br>
 🎥 Serie preferida: Breaking Bad <br>
