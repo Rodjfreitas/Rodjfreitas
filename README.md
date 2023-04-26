@@ -3,11 +3,11 @@
 ### Perfil
 
 🔞 34 anos <br>
-🏫 Graduado em Ciências Contábeis <br>
+🏫 Formado em Ciências Contábeis pelo Centro Universitário de Belo Horizonte Unibh <br>
 🗽 Natural de Belo Horizonte/MG <br>
 💍 Casado com a Natália <br>
-⚽ Apaixonado por futebol. Torcedor do Cruzeiro <br>
-🎮 Hobby: Games <br>
+⚽ Apaixonado por futebol. Torcedor fanático do Cruzeiro <br>
+🎮 Hobby: Games (principalmente fifa e efootball)<br>
 📚 Livros: Temas sociais, histórias das civilizações e desenvolvimento pessoal e conhecimentos técnicos em programação <br>
 🎵 Músicas: Blues, Românticas e gospel <br>
 🎥 Filme preferido: Saga Star Wars <br>
