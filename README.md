@@ -2,7 +2,7 @@
 
 ### Perfil
 
-🔞 34 anos <br>
+🔞 38 anos <br>
 🏫 Formado em Ciências Contábeis pelo Centro Universitário de Belo Horizonte Unibh <br>
 🗽 Natural de Belo Horizonte/MG <br>
 💍 Casado com a Natália <br>
